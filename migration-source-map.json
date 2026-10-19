@@ -1,0 +1,473 @@
+{
+  "migration_date": "2026-10-19",
+  "source_site": "https://sites.google.com/site/kkatostat/home",
+  "pages": [
+    {
+      "source_url": "https://sites.google.com/site/kkatostat/home",
+      "site_path": "index.html",
+      "source_html_sha256": "516f0d3a897a8ce020153f2a21315e7400757a71194ff7a3ceaac485d08cbaf0"
+    },
+    {
+      "source_url": "https://sites.google.com/site/kkatostat/home/research",
+      "site_path": "publications.html",
+      "source_html_sha256": "7f2b572aaa12b6682f1fbf19d7fb7aece65d67b8fe3657e3f7fcd78b5557b1a1"
+    },
+    {
+      "source_url": "https://sites.google.com/site/kkatostat/home/cv",
+      "site_path": "cv.html",
+      "source_html_sha256": "f989b07038739bc6c95a0cb2c3808cf53cf39d6d140e2b16eb047565b78f4823"
+    }
+  ],
+  "content_counts": {
+    "pages": 3,
+    "published_articles": 59,
+    "working_papers": 15,
+    "lecture_notes": 4,
+    "cv_entries": 21,
+    "google_drive_pdfs": 11,
+    "portraits": 1,
+    "external_pdfs": 1,
+    "downloaded_assets": 12,
+    "downloaded_pdf_pages": 858
+  },
+  "content_policy": "Public page wording, publication order, dates, and publication statuses were preserved; layout and navigation were rebuilt.",
+  "assets": [
+    {
+      "type": "portrait",
+      "source_page": "home",
+      "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tBocq4ohraJQJiZMwwhgBuLHpxH_c84XZGVB231IdzCUu8UD0x0e6hFMqMdyF07Mk5bAiyo2dWZb5HIM7OA2gojPTUIZMNapm_bTsKkSMhRv-N76Xi-SZKF10AlY6A57ghyVha8C7DVpgN4cGvwlYzm9cdQP9-MyTMs902FDhNtgO-7HLy5MwJCwqF84YnIhHqSgR101rL7t3lXURZU_jRiWkxHgtInymgvDzBQRI=w1280",
+      "hosting": "Google Sites",
+      "suggested_filename": "kengo-kato.jpg",
+      "status": "included",
+      "site_path": "assets/images/kengo-kato.jpg",
+      "size_bytes": 234047,
+      "sha256": "b8cefdd1a71c11033564d05de121dcef13b651808c66c6a57916f5b6c5b6d8c4"
+    },
+    {
+      "type": "pdf",
+      "source_page": "research",
+      "source_url": "https://drive.google.com/file/d/0B7C_CufYq6j6eHJaY0E5SFlTTW8/view?usp=sharing&resourcekey=0-ERBG4cPpk8JZ-tatRiXvQQ",
+      "hosting": "Google Drive",
+      "suggested_filename": "gaussian-approximation-comments.pdf",
+      "status": "included",
+      "site_path": "assets/files/gaussian-approximation-comments.pdf",
+      "size_bytes": 12347,
+      "sha256": "47ef5d9faa54aeeb60fb13f6acad6d99beea8afe99c62905dedb53e071b6d98d"
+    },
+    {
+      "type": "pdf",
+      "source_page": "research",
+      "source_url": "https://drive.google.com/file/d/0B7C_CufYq6j6TTk3cVU5YjBoTUk/view?usp=sharing&resourcekey=0-nabMi79tP2q9z59eF4FOTw",
+      "hosting": "Google Drive",
+      "suggested_filename": "quasi-bayesian-npiv-supplement.pdf",
+      "status": "included",
+      "site_path": "assets/files/quasi-bayesian-npiv-supplement.pdf",
+      "size_bytes": 315836,
+      "sha256": "c2cbe0cdc1ae70742e510148b43a23a6fe2a662fbebee6257814735a968f0490"
+    },
+    {
+      "type": "pdf",
+      "source_page": "research",
+      "source_url": "https://drive.google.com/file/d/0B7C_CufYq6j6R1lCeTkyZzZXcHM/view?usp=sharing&resourcekey=0-gIxt_olBkO9rkDyYK9x1sA",
+      "hosting": "Google Drive",
+      "suggested_filename": "functional-linear-quantile-regression-corrections.pdf",
+      "status": "included",
+      "site_path": "assets/files/functional-linear-quantile-regression-corrections.pdf",
+      "size_bytes": 17959,
+      "sha256": "ab88496630a059bf16f9176e42b9afb9d3cd6287cf011b6f9ef9f7592ceb2b49"
+    },
+    {
+      "type": "pdf",
+      "source_page": "research",
+      "source_url": "https://drive.google.com/file/d/0B7C_CufYq6j6dW1YcDJ4b0JDZVk/view?usp=sharing&resourcekey=0-9D3uub5YcFSripr8nCs1cg",
+      "hosting": "Google Drive",
+      "suggested_filename": "functional-linear-quantile-regression-supplement.pdf",
+      "status": "included",
+      "site_path": "assets/files/functional-linear-quantile-regression-supplement.pdf",
+      "size_bytes": 167835,
+      "sha256": "41fa3154031e9fdd026220f730b3c8458e325beb9d910d84ac68d6b0bf94b870"
+    },
+    {
+      "type": "pdf",
+      "source_page": "research",
+      "source_url": "https://drive.google.com/file/d/0B7C_CufYq6j6ZU9NMmhWeEJ6R1E/view?usp=sharing&resourcekey=0-f2VgWwz5HXOklozFx3FaEQ",
+      "hosting": "Google Drive",
+      "suggested_filename": "moment-convergence-bootstrap-m-estimators.pdf",
+      "status": "included",
+      "site_path": "assets/files/moment-convergence-bootstrap-m-estimators.pdf",
+      "size_bytes": 279808,
+      "sha256": "bdb312a68b4f40a686f95cf3638105caa39f7cfa370c94cf9361cc5ae76f5af4"
+    },
+    {
+      "type": "pdf",
+      "source_page": "research",
+      "source_url": "http://www.ism.ac.jp/editsec/aism/pdf/061_3_0531.pdf",
+      "hosting": "external publisher",
+      "suggested_filename": "061_3_0531.pdf",
+      "status": "external_link_retained",
+      "reason": "not_downloaded_external"
+    },
+    {
+      "type": "pdf",
+      "source_page": "research",
+      "source_url": "https://drive.google.com/file/d/0B7C_CufYq6j6bjI4OWZtcnVycTA/view?usp=sharing&resourcekey=0-9CDMFMdQLx8tEF-ZPz81Mw",
+      "hosting": "Google Drive",
+      "suggested_filename": "measurability-bayesian-partially-identified-models.pdf",
+      "status": "included",
+      "site_path": "assets/files/measurability-bayesian-partially-identified-models.pdf",
+      "size_bytes": 68514,
+      "sha256": "c6469c5a8a4138bf334ba7ad05af0ba4768e9d3fc1953213d957b6ff1b5455d9"
+    },
+    {
+      "type": "pdf",
+      "source_page": "research",
+      "source_url": "https://drive.google.com/file/d/0B7C_CufYq6j6QU5rblF2Yl85d3c/view?usp=sharing&resourcekey=0-ItZa4Z1yrAGhUa7scVo_aw",
+      "hosting": "Google Drive",
+      "suggested_filename": "empirical-process-theory.pdf",
+      "status": "included",
+      "site_path": "assets/files/empirical-process-theory.pdf",
+      "size_bytes": 727000,
+      "sha256": "cd0fe2fe050d642d733322e6b2f52f695256487b22c995d4f48aa710c28e9a95"
+    },
+    {
+      "type": "pdf",
+      "source_page": "research",
+      "source_url": "https://drive.google.com/open?id=1TfXzuw-QOicoMQ8xC0iJ8cJFkkduVBDi",
+      "hosting": "Google Drive",
+      "suggested_filename": "advanced-probability-for-statisticians.pdf",
+      "status": "included",
+      "site_path": "assets/files/advanced-probability-for-statisticians.pdf",
+      "size_bytes": 952016,
+      "sha256": "da5390a7e982346ab3dfe6efff850ab73ccf907019ae524d7a2b17e859f753a9"
+    },
+    {
+      "type": "pdf",
+      "source_page": "research",
+      "source_url": "https://drive.google.com/file/d/0B7C_CufYq6j6VXN5NDJjNF9XdTA/view?usp=sharing&resourcekey=0-7SR2jWQniUa8CvOvbVm3cA",
+      "hosting": "Google Drive",
+      "suggested_filename": "probability-theory-japanese.pdf",
+      "status": "included",
+      "site_path": "assets/files/probability-theory-japanese.pdf",
+      "size_bytes": 1567922,
+      "sha256": "3745184b7210ee76800ea54fc9cf20c85071f8a1074db2d0c8428508e75f64d8"
+    },
+    {
+      "type": "pdf",
+      "source_page": "research",
+      "source_url": "https://drive.google.com/file/d/0B7C_CufYq6j6ekFINVhTS09lZzQ/view?usp=sharing&resourcekey=0-zaYo9XudjhK_K6kMfpq-XQ",
+      "hosting": "Google Drive",
+      "suggested_filename": "mathematical-statistics-japanese.pdf",
+      "status": "included",
+      "site_path": "assets/files/mathematical-statistics-japanese.pdf",
+      "size_bytes": 983837,
+      "sha256": "2ef5f156a43c09f18510addc9ca7160035339077d8605fbe673d28f3d670f44c"
+    },
+    {
+      "type": "pdf",
+      "source_page": "cv",
+      "source_url": "https://drive.google.com/file/d/1BacrpCEXPQyIRpJfieV1wFEfozw5CZwG/view?usp=sharing",
+      "hosting": "Google Drive",
+      "suggested_filename": "kengo-kato-cv.pdf",
+      "status": "included",
+      "site_path": "assets/files/kengo-kato-cv.pdf",
+      "size_bytes": 273904,
+      "sha256": "4eb185e2ec1b3cb74b5a2ac23fcb7ad58ec53d7d06d735eccb486413ab77ca03"
+    }
+  ],
+  "external_links": {
+    "home": [
+      {
+        "text": "Department of Statistics and Data Science",
+        "href": "https://stat.cornell.edu/"
+      },
+      {
+        "text": "Cornell University",
+        "href": "https://www.cornell.edu/"
+      },
+      {
+        "text": "Bernoulli",
+        "href": "https://www.bernoullisociety.org/publications/bernoulli-journal"
+      },
+      {
+        "text": "Google Scholar",
+        "href": "https://scholar.google.com/citations?user=m6pbDsoAAAAJ&hl=en"
+      },
+      {
+        "text": "Mathematics Genealogy",
+        "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=141547"
+      }
+    ],
+    "research": [
+      {
+        "text": "arXiv:2402.05100",
+        "href": "https://arxiv.org/abs/2402.05100"
+      },
+      {
+        "text": "arXiv:2411.07947",
+        "href": "https://arxiv.org/abs/2411.07947"
+      },
+      {
+        "text": "arXiv:2306.00182",
+        "href": "https://arxiv.org/abs/2306.00182"
+      },
+      {
+        "text": "arXiv:2303.10155",
+        "href": "https://arxiv.org/abs/2303.10155"
+      },
+      {
+        "text": "arXiv:2207.08683",
+        "href": "https://arxiv.org/abs/2207.08683"
+      },
+      {
+        "text": "arXiv:2205.04283",
+        "href": "https://arxiv.org/abs/2205.04283"
+      },
+      {
+        "text": "arXiv:2203.00159",
+        "href": "https://arxiv.org/abs/2203.00159"
+      },
+      {
+        "text": "arXiv:2211.11184",
+        "href": "https://arxiv.org/abs/2211.11184"
+      },
+      {
+        "text": "arXiv:2103.10720",
+        "href": "https://arxiv.org/abs/2103.10720"
+      },
+      {
+        "text": "arXiv:2210.09160",
+        "href": "https://arxiv.org/abs/2210.09160"
+      },
+      {
+        "text": "arXiv:2205.09691",
+        "href": "https://arxiv.org/abs/2205.09691"
+      },
+      {
+        "text": "arXiv:1912.10529",
+        "href": "https://arxiv.org/abs/1912.10529"
+      },
+      {
+        "text": "arXiv:2003.09091",
+        "href": "https://arxiv.org/abs/2003.09091"
+      },
+      {
+        "text": "arXiv:2009.05150",
+        "href": "https://arxiv.org/abs/2009.05150"
+      },
+      {
+        "text": "arXiv:1910.09662",
+        "href": "https://arxiv.org/abs/1910.09662"
+      },
+      {
+        "text": "arXiv:2101.04039",
+        "href": "https://arxiv.org/abs/2101.04039"
+      },
+      {
+        "text": "arXiv:2006.00952",
+        "href": "https://arxiv.org/abs/2006.00952"
+      },
+      {
+        "text": "arXiv:1909.03489",
+        "href": "https://arxiv.org/abs/1909.03489"
+      },
+      {
+        "text": "arXiv:1908.03152",
+        "href": "https://arxiv.org/abs/1908.03152"
+      },
+      {
+        "text": "arXiv:2002.01012",
+        "href": "https://arxiv.org/abs/2002.01012"
+      },
+      {
+        "text": "arXiv:1808.09375",
+        "href": "https://arxiv.org/abs/1808.09375"
+      },
+      {
+        "text": "STATA",
+        "href": "https://sites.google.com/site/yuyasasaki/Home/stata/stata-command-kotlarski"
+      },
+      {
+        "text": "arXiv:2002.01013",
+        "href": "https://arxiv.org/abs/2002.01013"
+      },
+      {
+        "text": "arXiv:1901.01163",
+        "href": "https://arxiv.org/abs/1901.01163"
+      },
+      {
+        "text": "arXiv:1811.05379",
+        "href": "https://arxiv.org/abs/1811.05379"
+      },
+      {
+        "text": "arXiv:1708.02705",
+        "href": "https://arxiv.org/abs/1708.02705"
+      },
+      {
+        "text": "arXiv:1803.03450",
+        "href": "https://arxiv.org/abs/1803.03450"
+      },
+      {
+        "text": "arXiv:1702:03377",
+        "href": "https://arxiv.org/abs/1702.03377"
+      },
+      {
+        "text": "STATA",
+        "href": "https://sites.google.com/site/yuyasasaki/Home/stata/stata-command-npeivreg"
+      },
+      {
+        "text": "arXiv:1705.00586",
+        "href": "https://arxiv.org/abs/1705.00586"
+      },
+      {
+        "text": "arXiv:1712.00771",
+        "href": "https://arxiv.org/abs/1712.00771"
+      },
+      {
+        "text": "arXiv:1312.7614",
+        "href": "https://arxiv.org/abs/1312.7614"
+      },
+      {
+        "text": "arXiv:1608.02251",
+        "href": "http://arxiv.org/abs/1608.02251"
+      },
+      {
+        "text": "STATA",
+        "href": "https://sites.google.com/site/yuyasasaki/Home/stata/stata-command-dkdensity"
+      },
+      {
+        "text": "arXiv:1612.07490",
+        "href": "https://arxiv.org/abs/1612.07490"
+      },
+      {
+        "text": "arXiv: 1312.7186",
+        "href": "http://arxiv.org/abs/1312.7186"
+      },
+      {
+        "text": "arXiv:1609.00286",
+        "href": "http://arxiv.org/abs/1609.00286"
+      },
+      {
+        "text": "arXiv: 1412.3661",
+        "href": "http://arxiv.org/abs/1412.3661"
+      },
+      {
+        "text": "SSRN",
+        "href": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2606188"
+      },
+      {
+        "text": "arXiv: 1502.00352",
+        "href": "http://arxiv.org/abs/1502.00352"
+      },
+      {
+        "text": "arXiv: 1212.0442",
+        "href": "http://arxiv.org/abs/1212.0442"
+      },
+      {
+        "text": "arXiv:1304.0282",
+        "href": "http://arxiv.org/abs/1304.0282"
+      },
+      {
+        "text": "arXiv:1303.7152",
+        "href": "http://arxiv.org/abs/1303.7152"
+      },
+      {
+        "text": "arXiv:1212.6885",
+        "href": "http://arxiv.org/abs/1212.6885"
+      },
+      {
+        "text": "arXiv:1301.4807",
+        "href": "http://arxiv.org/abs/1301.4807"
+      },
+      {
+        "text": "arXiv:1403.2085",
+        "href": "http://arxiv.org/abs/1403.2085"
+      },
+      {
+        "text": "arXiv:1212.6906",
+        "href": "http://arxiv.org/abs/1212.6906"
+      },
+      {
+        "text": "arXiv:1204.2108",
+        "href": "http://arxiv.org/abs/1204.2108"
+      },
+      {
+        "text": "arXiv:1202.4850",
+        "href": "http://arxiv.org/abs/1202.4850"
+      },
+      {
+        "text": "pdf",
+        "href": "http://www.ism.ac.jp/editsec/aism/pdf/061_3_0531.pdf"
+      },
+      {
+        "text": "arXiv:2608.19198",
+        "href": "https://arxiv.org/abs/2608.19198"
+      },
+      {
+        "text": "arXiv:2603.21554",
+        "href": "https://arxiv.org/abs/2603.21554"
+      },
+      {
+        "text": "arXiv: 2602:11290",
+        "href": "https://arxiv.org/abs/2602.11290"
+      },
+      {
+        "text": "arXiv:2508.09382",
+        "href": "https://arxiv.org/abs/2508.09382"
+      },
+      {
+        "text": "arXiv:2508:03985",
+        "href": "https://arxiv.org/abs/2508.03985"
+      },
+      {
+        "text": "arXiv:2410.18006",
+        "href": "https://arxiv.org/abs/2410.18006"
+      },
+      {
+        "text": "arXiv:2107.13494",
+        "href": "https://arxiv.org/abs/2107.13494"
+      },
+      {
+        "text": "arXiv:2102.06586",
+        "href": "https://arxiv.org/abs/2102.06586"
+      },
+      {
+        "text": "arXiv:1806.01888",
+        "href": "https://arxiv.org/abs/1806.01888"
+      },
+      {
+        "text": "arXiv:1711.10696",
+        "href": "https://arxiv.org/abs/1711.10696"
+      },
+      {
+        "text": "arXiv:1207.5313",
+        "href": "http://arxiv.org/abs/1207.5313"
+      },
+      {
+        "text": "arXiv:1103.1458",
+        "href": "http://arxiv.org/abs/1103.1458"
+      }
+    ],
+    "cv": [
+      {
+        "text": "Bernoulli",
+        "href": "https://www.bernoullisociety.org/publications/bernoulli-journal"
+      },
+      {
+        "text": "Journal of Econometrics",
+        "href": "https://www.sciencedirect.com/journal/journal-of-econometrics"
+      },
+      {
+        "text": "Bernoulli",
+        "href": "https://www.bernoullisociety.org/publications/bernoulli-journal"
+      },
+      {
+        "text": "Electronic Journal of Statistics",
+        "href": "https://imstat.org/journals-and-publications/electronic-journal-of-statistics/"
+      },
+      {
+        "text": "Statistica Sinica",
+        "href": "https://www3.stat.sinica.edu.tw/statistica/"
+      }
+    ]
+  }
+}
